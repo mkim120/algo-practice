@@ -37,7 +37,7 @@ function maskify(cc) {
   if (cc.length >= 5) { 
     let maskNum = cc.length - 4;
     let maskChars = "";
-    for (i = 0; i < maskNum; i++) { // loop until i < maskNum since if maskNum = 5, i loops from 0 to 4 which is 5 characters
+    for (let i = 0; i < maskNum; i++) { // loop until i < maskNum since if maskNum = 5, i loops from 0 to 4 which is 5 characters
       maskChars += "#";
     }
     //console.log(maskChars);
