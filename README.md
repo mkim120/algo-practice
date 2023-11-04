@@ -4,6 +4,6 @@ Practice with JavaScript coding problems. Comments and pseudocode have been adde
 
 ## Links to repo folders:
 
-### [LeetCode](leetcode)
+<!-- ### [LeetCode](leetcode) -->
 ### [Hackerrank](hackerrank)
 ### [CodeWars](codewars)
